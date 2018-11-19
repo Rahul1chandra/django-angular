@@ -1,4 +1,4 @@
-# django-angular
+# CRUD operation using django and angular 
 
     TO-DO list app using Django and angular 1.7.
     Tech Stack to be used : Python 3.6, Django 2.1, & Bootstrap.
