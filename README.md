@@ -1,7 +1,7 @@
 # django-angular
 
-    TO-DO list app using django and angular.
-    Tech Stack to be used : Python, Django, & Bootstrap.
+    TO-DO list app using Django and angular 1.7.
+    Tech Stack to be used : Python 3.6, Django 2.1, & Bootstrap.
 
       1. The todo model have following fields:
         Title
